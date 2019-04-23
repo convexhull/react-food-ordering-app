@@ -28,3 +28,8 @@
 }
 
 
+.Invalid {
+    border : 1px solid red;
+    background-color : rgb(238, 142, 131);
+}
+
